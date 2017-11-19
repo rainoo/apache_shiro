@@ -1,2 +1,2 @@
 # apache_shiro
-ApacheShiro ABC
+使用Apache Shiro进行基本的权限管理。
